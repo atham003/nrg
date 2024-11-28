@@ -1,0 +1,70 @@
+/* rubik */
+@font-face {
+  font-family: 'rubik';
+  src: url('../fonts/rubik/Rubik-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'rubik';
+  src: url('../fonts/rubik/Rubik-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'rubik';
+  src: url('../fonts/rubik/Rubik-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+/* robot */
+@font-face {
+  font-family: 'roboto';
+  src: url('../fonts/roboto/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url('../fonts/roboto/Roboto-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url('../fonts/roboto/Roboto-MediumItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 500;
+}
+
+/* song myung */
+@font-face {
+  font-family: 'song-myung';
+  src: url('../fonts/songMyung/SongMyung-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+/* icons */
+@font-face {
+  font-family: 'icon';
+  src: url('../fonts/icons/fa-regular-400.woff2') format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'icon';
+  src: url('../fonts/icons/fa-brands-400.woff2') format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'icon';
+  src: url('../fonts/icons/fa-solid-900.woff2') format('woff2');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'icon';
+  src: url('../fonts/icons/fa-doutone-900.woff2') format('woff2');
+  font-weight: 900;
+}
